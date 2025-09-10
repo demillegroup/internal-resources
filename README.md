@@ -17,8 +17,8 @@ Otherwise use the git repo for our internal resources page which is on the demil
 ## 2. Create/edit main.html
 This is the internal resources page.
 Here is an example
-```
-<!DOCTYPE html>html
+```html
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
